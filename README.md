@@ -1,6 +1,6 @@
 # Much-Physic
-Just a little particle simulation program I've made in my free time
-Feel free to provide constructive criticism, whether it be reporting bugs or telling me improvents or features I can add to the code
+Just a little particle simulation program I've made in my free time.
+If you find a bug or issue in the code, or have ann improvement or feature to add, please put it in the issues.
 
 
 USING THE SIMULATION:
