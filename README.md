@@ -8,5 +8,6 @@ USING THE SIMULATION:
        Left-Click to place particles
        Left-Click and drag to place particles with momentum
        Press space to pause 
+       R to reset all particles
        Period to advance one frame
        Drag the sliders to adjust particle properties
