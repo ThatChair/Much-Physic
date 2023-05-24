@@ -4,6 +4,7 @@ Feel free to provide constructive criticism, whether it be reporting bugs or tel
 
 
 USING THE SIMULATION:
+
        Left-Click to place particles
        Left-Click and drag to place particles with momentum
        Press space to pause 
