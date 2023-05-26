@@ -19,7 +19,7 @@ This is *Much Physic*, a particle simulation project that is mainly just meant t
 | Left Cick + Drag | Spawn New Particle with Velocity |
 | Space | Toggle Simulation |
 | R | Reset Simulation | 
-| . (Period) | Advance Simulation |
+| . (Period) | Advance Simulation One Frame |
 
 ### Sliders
 Currently, you can change the properties of each particle you spawn with sliders. Below details what each slider does.
